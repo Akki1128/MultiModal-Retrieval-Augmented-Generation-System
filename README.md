@@ -1,1 +1,1 @@
-# MultiModal-Retrieval-Augmented-Generation-System
+# MultiModal Retrieval-Augmented-Generation-System
